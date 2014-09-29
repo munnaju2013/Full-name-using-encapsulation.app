@@ -1,0 +1,8 @@
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\name Encapsulation.app\name Encapsulation.app\bin\Debug\name Encapsulation.app.exe.config
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\name Encapsulation.app\name Encapsulation.app\obj\Debug\name_Encapsulation.app.Properties.Resources.resources
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\name Encapsulation.app\name Encapsulation.app\obj\Debug\name Encapsulation.app.csproj.GenerateResource.Cache
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\name Encapsulation.app\name Encapsulation.app\bin\Debug\name Encapsulation.app.exe
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\name Encapsulation.app\name Encapsulation.app\bin\Debug\name Encapsulation.app.pdb
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\name Encapsulation.app\name Encapsulation.app\obj\Debug\name_Encapsulation.app.NameUI.resources
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\name Encapsulation.app\name Encapsulation.app\obj\Debug\name Encapsulation.app.exe
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\name Encapsulation.app\name Encapsulation.app\obj\Debug\name Encapsulation.app.pdb
